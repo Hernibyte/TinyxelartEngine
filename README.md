@@ -3,52 +3,51 @@ Tiny indie game engine
 
 ## Dependencies (Temp Idea)
 
-### Window Manager
+**Window Manager**
 - SDL
 
-### Renderer
+**Renderer**
 - bgfx
 
-### Mathematics
+**Mathematics**
 - GLM
 
-### ECS
+**ECS**
 - EnTT
 
-### Physics 2D
+**Physics 2D**
 - Box2D
 
-### Physics 3D
+**Physics 3D**
 - Jolt Physics
 
-### Sound
+**Sound**
 - miniaudio
 - SDL audio
 
-### Image
+**Image**
 - stb_image
 
-### Models
+**Models**
 - Assimp
 
-### JSON
+**JSON**
 - nlohmann/json
 
-### Compression
+**Compression**
 - zlib
 
-### Internal/Editor UI
+**Internal/Editor UI**
 - Dear ImGui
 
-### File subsystem
+**File subsystem**
 - PhysicsFS
 
-### Logging
+**Logging**
 - spdlog
 
-### Profiling
+**Profiling**
 - Tracy Profiler
 
-### Testing
+**Testing**
 - Catch2
-
